@@ -1,6 +1,6 @@
 # nemoone
 اين مخزن برخي نمونه كار ها هست
-اپ رستوران ها و فروشگاه  + api node , ..
+اپ رستوران ها و فروشگاه  + api node , .. react
 
 ![photo_2021-03-28_00-25-54](https://user-images.githubusercontent.com/75145283/112733680-fda3cb80-8f5e-11eb-815c-2b9fea33d3d2.jpg)
 ![Screenshot (23)](https://user-images.githubusercontent.com/75145283/112733681-00062580-8f5f-11eb-8abf-2444a7957f07.png)
